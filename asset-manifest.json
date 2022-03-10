@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sharehouse/static/js/main.df61026a.js",
+    "index.html": "/sharehouse/index.html",
+    "main.df61026a.js.map": "/sharehouse/static/js/main.df61026a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df61026a.js"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sharehouse/static/css/main.2d0b08a0.css",
+    "main.css": "/sharehouse/static/css/main.c25617de.css",
     "main.js": "/sharehouse/static/js/main.7af3c5cd.js",
     "static/media/new03.jpg": "/sharehouse/static/media/new03.85f24c4c699ae8c2c3bf.jpg",
     "static/media/new05.jpg": "/sharehouse/static/media/new05.38f79aa2da7c9063b0e9.jpg",
@@ -18,11 +18,11 @@
     "static/media/now.jpg": "/sharehouse/static/media/now.58db83d1b4b836a1139c.jpg",
     "static/media/banner.png": "/sharehouse/static/media/banner.8dde014a6f53fd9facf8.png",
     "index.html": "/sharehouse/index.html",
-    "main.2d0b08a0.css.map": "/sharehouse/static/css/main.2d0b08a0.css.map",
+    "main.c25617de.css.map": "/sharehouse/static/css/main.c25617de.css.map",
     "main.7af3c5cd.js.map": "/sharehouse/static/js/main.7af3c5cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d0b08a0.css",
+    "static/css/main.c25617de.css",
     "static/js/main.7af3c5cd.js"
   ]
 }
